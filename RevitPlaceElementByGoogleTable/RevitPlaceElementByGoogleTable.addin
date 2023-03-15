@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RevitPlaceElementByGoogleTable</Name>
+    <Assembly>
+      RevitPlaceElementByGoogleTable.dll
+    </Assembly>
+    <ClientId>05711cfd-cd06-4487-b42c-cdc24eb6d5b7</ClientId>
+    <FullClassName>RevitPlaceElementByGoogleTable.App</FullClassName>
+    <VendorId>Zuev Alexandr</VendorId>
+    <VendorDescription>bimstarter@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
